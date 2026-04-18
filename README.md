@@ -7,7 +7,7 @@ Cette application web de Machine Learning permet de prédire le prix d’une mai
 - ## Démo en ligne
 
 Tester l’application ici :  
-[Accéder à l’application]([https://ton-app.streamlit.app](https://prediction-prix-maison-apmhu3qhuh34e24yhlm6jh.streamlit.app/))
+https://prediction-prix-maison-apmhu3qhuh34e24yhlm6jh.streamlit.app/
 
 Ce projet présente un workflow simple de Machine Learning de bout en bout :
 - création d’un petit jeu de données
